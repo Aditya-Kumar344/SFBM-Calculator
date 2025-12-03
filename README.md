@@ -1,6 +1,5 @@
 # Beam Analysis & SFBM Calculator
 
-## 📖 Overview
 
 Engineers often face the tedious and time-consuming task of manually building shear force and bending moment diagrams for simple beams subject to complex loads. A single calculation error can force a complete restart of the process.
 
@@ -22,7 +21,7 @@ This calculator supports statically determinate beams subject to a variety of lo
 -  **Uniformly Distributed Loads (UDL):** Constant load spread across a span.
 -  **Linearly Varying Loads (UVL):** Triangular or trapezoidal loads.
 
-**Outputs:**
+## **Outputs**
 - Automatic calculation of Support Reactions.
 - Analytical equations for Shear Force and Bending Moment.
 - Calculation of Slope and Deflection profiles.
